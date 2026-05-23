@@ -11,8 +11,7 @@
 - Problem 35
 - Problem 37b
 
-Problems from *Questions about Boij-Soderberg theory*:
-https://arxiv.org/abs/1606.01867
+> D. Erman and S. V. Sam, "Questions about Boij-Soderberg theory," arXiv:1606.01867, 2016. Link: https://arxiv.org/abs/1606.01867.
 
 - Question 6.1
 - Question 6.2
