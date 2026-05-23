@@ -11,7 +11,7 @@
 - Problem 35
 - Problem 37b
 
-> D. Erman and S. V. Sam, "Questions about Boij-Soderberg theory," arXiv:1606.01867, 2016. Link: https://arxiv.org/abs/1606.01867.
+> Daniel Erman and Steven V. Sam, "Questions about Boij-Soderberg theory," in Izzet Coskun, Tommaso de Fernex, and Angela Gibney (eds.), *Surveys on Recent Developments in Algebraic Geometry*, Proceedings of Symposia in Pure Mathematics, vol. 95, American Mathematical Society, Providence, RI, 2017, pp. 285-304. DOI: [10.1090/pspum/095/01635](https://doi.org/10.1090/pspum/095/01635). arXiv: [1606.01867](https://arxiv.org/abs/1606.01867). ISBN: 978-1-4704-3557-8.
 
 - Question 6.1
 - Question 6.2
