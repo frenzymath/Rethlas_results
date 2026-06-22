@@ -19,6 +19,9 @@ Analysis/
 CommAlg/
   arxiv_1606_01867/
   CFFG_OpenProblems/
+
+Probability/
+  vinzant_refined_injectivity_conjecture_a.md
 ```
 
 The current top-level areas are:
@@ -26,6 +29,7 @@ The current top-level areas are:
 * `AlgGeom`: algebraic geometry.
 * `Analysis`: analysis.
 * `CommAlg`: commutative algebra.
+* `Probability`: probability.
 
 
 
@@ -129,6 +133,23 @@ The corresponding paper is:
 * Jiedong Jiang et al., **“On some open problems in commutative algebra resolved by Rethlas.”**
   arXiv: [2605.25259](https://arxiv.org/abs/2605.25259)
 
+### Probability
+
+#### `Probability/vinzant_refined_injectivity_conjecture_a.md`
+
+This file contains raw outputs related to Vinzant's Refined Injectivity Conjecture (a).
+
+Problem source:
+
+> Cynthia Vinzant's Refined Injectivity Conjecture (a), as listed in
+> Dustin G. Mixon, “Conjectures from SAMPTA,”
+> <https://dustingmixon.wordpress.com/2015/07/08/conjectures-from-sampta/>.
+
+The corresponding paper is:
+
+* Zhangsong Li, **“On Injectivity of Phase Retrieval.”**
+  arXiv: [2606.17922](https://arxiv.org/abs/2606.17922)
+
 ## Additional papers using Rethlas
 
 Rethlas has also been used to solve or assist with mathematical research problems appearing in the following papers.
@@ -170,4 +191,3 @@ Rethlas has also been used to solve or assist with mathematical research problem
 
 * **“A Counterexample to Problem 19 on Integer-valued Polynomial Rings.”**
   arXiv: [2604.05922](https://arxiv.org/abs/2604.05922)
-
