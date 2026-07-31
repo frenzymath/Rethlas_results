@@ -9,6 +9,9 @@ This repository collects raw outputs produced by **[Rethlas](https://github.com/
 
 ```text
 
+AlgComb/
+  MatroidKazhdanLusztig/
+
 AlgGeom/
   AlgebraicGroups/
   PAdicHodge/
@@ -26,6 +29,7 @@ Probability/
 
 The current top-level areas are:
 
+* `AlgComb`: algebraic combinatorics.
 * `AlgGeom`: algebraic geometry.
 * `Analysis`: analysis.
 * `CommAlg`: commutative algebra.
@@ -34,6 +38,17 @@ The current top-level areas are:
 
 
 ## Results currently represented in this repository
+
+### Algebraic combinatorics
+
+#### `AlgComb/MatroidKazhdanLusztig`
+
+This directory contains raw outputs related to Kazhdan–Lusztig polynomials of matroids.
+
+The corresponding paper is:
+
+* Ronnie Cheng and Shurui Liu, **“Kazhdan–Lusztig polynomials of matroids need not be unimodal.”**
+  arXiv: [2607.24186](https://arxiv.org/abs/2607.24186)
 
 ### Algebraic geometry
 
@@ -183,6 +198,17 @@ Rethlas has also been used to solve or assist with mathematical research problem
 
 * **“A Counterexample to Bhatt-Lurie's Cohomological Dimension Conjecture.”**
   arXiv: [2606.05260](https://arxiv.org/abs/2606.05260)
+
+* **“Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi–Yau threefold.”**
+  arXiv: [2607.07355](https://arxiv.org/abs/2607.07355)
+
+* **“Analytic Bertini theorem II — The local case.”**
+  arXiv: [2607.25230](https://arxiv.org/abs/2607.25230)
+
+### Complex variables
+
+* **“A counterexample to the zero-mass conjecture.”**
+  arXiv: [2607.26549](https://arxiv.org/abs/2607.26549)
 
 ### Commutative algebra
 
