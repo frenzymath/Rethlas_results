@@ -165,9 +165,9 @@ The corresponding paper is:
 * Zhangsong Li, **“On Injectivity of Phase Retrieval.”**
   arXiv: [2606.17922](https://arxiv.org/abs/2606.17922)
 
-## Additional papers using Rethlas
+## Additional papers using Rethlas/Danus
 
-Rethlas has also been used to solve or assist with mathematical research problems appearing in the following papers.
+Rethlas and Danus have also been used to solve or assist with mathematical research problems appearing in the following papers.
 
 ### Algebraic geometry and related areas
 
@@ -205,6 +205,30 @@ Rethlas has also been used to solve or assist with mathematical research problem
 * **“Analytic Bertini theorem II — The local case.”**
   arXiv: [2607.25230](https://arxiv.org/abs/2607.25230)
 
+* **“Criteria of isolated weighted homogeneous hypersurface singularities using Logarithmic vector fields.”**
+  arXiv: [2606.29891](https://arxiv.org/abs/2606.29891)
+
+* **“An equivariant fixed-level Demailly identity for Fano manifolds.”**
+  arXiv: [2607.00708](https://arxiv.org/abs/2607.00708)
+
+* **“K-polystable toric Fano varieties with small alpha invariants.”**
+  arXiv: [2607.04005](https://arxiv.org/abs/2607.04005)
+
+* **“A slope-unstable bundle on a surface with 1-homogeneous projectivization.”**
+  arXiv: [2607.04376](https://arxiv.org/abs/2607.04376)
+
+* **“A counterexample to the odd-dimensional rank bound for abelian $p$-group actions.”**
+  arXiv: [2607.04891](https://arxiv.org/abs/2607.04891)
+
+* **“Twelve common flex lines in a general pencil of cubics.”**
+  arXiv: [2607.26396](https://arxiv.org/abs/2607.26396)
+
+* **“Removing the Torsion-free Hypothesis in a Positivity Theorem on Deligne-Mumford Stacks.”**
+  arXiv: [2607.26989](https://arxiv.org/abs/2607.26989)
+
+* **“The equality case of Ehrhart's volume conjecture.”**
+  arXiv: [2608.01040](https://arxiv.org/abs/2608.01040)
+
 ### Complex variables
 
 * **“A counterexample to the zero-mass conjecture.”**
@@ -217,3 +241,16 @@ Rethlas has also been used to solve or assist with mathematical research problem
 
 * **“A Counterexample to Problem 19 on Integer-valued Polynomial Rings.”**
   arXiv: [2604.05922](https://arxiv.org/abs/2604.05922)
+
+* **“On two questions of Qi on saturated filtrations.”**
+  arXiv: [2607.04831](https://arxiv.org/abs/2607.04831)
+
+### Number theory
+
+* **“A counterexample to the near-quadratic Elekes--Rónyai expander conjecture over $\mathbb R$.”**
+  arXiv: [2606.16738](https://arxiv.org/abs/2606.16738)
+
+### Operator algebras
+
+* **“ICC property(T) groups without $W^*$-superrigidity.”**
+  arXiv: [2608.02327](https://arxiv.org/abs/2608.02327)
