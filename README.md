@@ -43,11 +43,21 @@ The current top-level areas are:
 
 #### `AlgComb/MatroidKazhdanLusztig`
 
-This directory contains raw outputs related to Kazhdan–Lusztig polynomials of matroids.
+This directory contains raw outputs related to Kazhdan–Lusztig polynomials and inverse
+Kazhdan–Lusztig/Z-polynomials of matroids.
+
+The files currently included are:
+
+* `matroid_kl_not_unimodal.md`: a counterexample showing that Kazhdan–Lusztig
+  polynomials of matroids need not be unimodal.
+* `inverse_kazhdan_lusztig_not_log_concave.pdf`: a counterexample showing that
+  inverse Kazhdan–Lusztig polynomials of matroids need not be log-concave.
+* `inverse_z_unimodal.pdf`: a proof that inverse Z-polynomials of loopless matroids
+  have unimodal coefficients.
 
 The corresponding paper is:
 
-* Ronnie Cheng and Shurui Liu, **“Kazhdan–Lusztig polynomials of matroids need not be unimodal.”**
+* Ronnie Cheng and Shurui Liu, **“Kazhdan–Lusztig polynomials of matroids need not be unimodal.”** (in submission)
   arXiv: [2607.24186](https://arxiv.org/abs/2607.24186)
 
 ### Algebraic geometry
@@ -69,7 +79,7 @@ This directory contains raw outputs for problems in p-adic Hodge theory.
 
 The corresponding paper is:
 
-* Xiangyu Pan and Jiahong Yu, **“Lift-independence problem in the (P)-adic Simpson correspondence for curves.”**
+* Xiangyu Pan and Jiahong Yu, **“Lift-independence problem in the (P)-adic Simpson correspondence for curves.”** (in submission)
   arXiv: [2605.29947](https://arxiv.org/abs/2605.29947)
 
 ### Analysis
